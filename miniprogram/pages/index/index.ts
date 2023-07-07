@@ -4,7 +4,11 @@ const app = getApp<IAppOption>()
 
 Page({
   data: {
+<<<<<<< Updated upstream
     motto: 'Hello World lzzj 1212312',
+=======
+    motto: 'Hello World http',
+>>>>>>> Stashed changes
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo'),
